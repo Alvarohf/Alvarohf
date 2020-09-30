@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning about AI and ML.
 - 👯 I’m looking to collaborate on eco-projects to save and clean the world.
 - 💬 Ask me about anything you want.
--  : 
 
-## Status: Looking for work!
+## Status: Looking for work! :white_check_mark::computer:
 <br />
 
 ### How to reach me 📫:
