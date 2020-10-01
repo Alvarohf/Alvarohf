@@ -6,8 +6,12 @@
 - 💬 Ask me about anything you want.
 
 ## Status: Looking for work! :white_check_mark::computer:
-<br />
-
+### My top repos:
+1. Finding maximum and minimum elevation in a map with genetic algorithms [genetic]
+2. Minimax python game made with pygame [minimax]
+3. 2048 game implemented with NVIDIA CUDA[cuda]
+4. Racket graph search with visualizations[racket]
+5. UAH Helper bot (Telegram bot winner of UAH Hackathon)[uahbot] 
 ### How to reach me 📫:
 [<img align="left" alt="Alvarohf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Alvarohf | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -51,6 +55,12 @@
 
 [website]: https://alvarohf.github.io
 [twitter]: https://twitter.com/Alvarohf_dev
-[youtube]: https://youtube.com/Alvarohf_dev
+[youtube]: https://www.youtube.com/channel/UCsTu7Umr3s0LpcPxjhhpFhA
 [linkedin]: https://www.linkedin.com/in/alvaro-de-las-heras-fernández-939883130/
 [steam]:https://steamcommunity.com/id/Alvarohf/
+
+[genetic]https://github.com/Alvarohf/DamGeneticSystem
+[minimax]https://github.com/Alvarohf/Minimax-python-game
+[cuda]https://github.com/Alvarohf/2048-CUDA-Scala
+[racket]https://github.com/Alvarohf/Racket-cities-graph-search-algorithms
+[uahbot]https://github.com/Alvarohf/UAH_HelperBot
