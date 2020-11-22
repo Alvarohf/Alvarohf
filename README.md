@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on eco-projects to save and clean the world.
 - 💬 Ask me about anything you want.
 
-## Status: Looking for work! :white_check_mark::computer:
+## Status: working at Vodafone:telephone:!
 ### My top repos:
 1. [Finding maximum and minimum elevation in a map with genetic algorithms][genetic]
 2. [Minimax python game made with pygame ][minimax]
