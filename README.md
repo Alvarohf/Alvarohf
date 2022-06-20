@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on eco-projects to save and clean the world.
 - 💬 Ask me about anything you want.
 
-## Status: working at Vodafone:telephone:!
+## Status: working at CARTO🗺️!
 ### My top repos:
 1. [Finding maximum and minimum elevation in a map with genetic algorithms][genetic]
 2. [Minimax python game made with pygame ][minimax]
@@ -54,7 +54,6 @@
 </details>
 
 [website]: https://alvarohf.github.io
-[twitter]: https://twitter.com/Alvarohf_dev
 [youtube]: https://www.youtube.com/channel/UCsTu7Umr3s0LpcPxjhhpFhA
 [linkedin]: https://www.linkedin.com/in/alvaro-de-las-heras-fernández-939883130/
 [steam]:https://steamcommunity.com/id/Alvarohf/
